@@ -16,8 +16,7 @@ public class ItemsUI<T> : MonoBehaviour where T: ProductInfo {
     public bool initialized;
 
     /// <summary>
-    /// Items UI MUST be initialized AFTER ONE FRAME. Otherwise, they will loop due to Unity UI
-    /// systems not being initialized yet
+    /// Items UI MUST be initialized in order to populate them
     /// </summary>
     /// <returns></returns>
     public void Initialize() {

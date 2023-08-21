@@ -34,7 +34,6 @@ public abstract class ObjectDetector<T> : MonoBehaviour where T : MonoBehaviour 
     private void OnTriggerExit2D(Collider2D other) {
         if (other.TryGetComponent(out T detectedObject)) {
             if (nearbyEntities.Contains(detectedObject)) {
-                Debug.Log(detectedObject.gameObject);
                 nearbyEntities.Remove(detectedObject);
                 OnObjectExited(detectedObject);
             }

@@ -26,12 +26,7 @@ public class ShopUI : MonoBehaviour {
     
     [Header("Sell Mode")]
     [SerializeField] private OutfitItemsUI outfitsOwnedByPlayerItemsUI;
-    
-    /// <summary>
-    /// Outfits the player has selected to sell
-    /// </summary>
-    [SerializeField] private List<OutfitInfo> outfitsToBeSoldByPlayer;
-    
+
     [SerializeField] private OutfitItemsUI outfitsToBeSoldByPlayerItemsUI;
     
     [SerializeField] private TextMeshProUGUI sellModePlayerMoneyText;
@@ -39,10 +34,16 @@ public class ShopUI : MonoBehaviour {
     [SerializeField] private TextMeshProUGUI sellTransactionEarningsText;
 
     [SerializeField] private Button sellButton;
+    
+    /// <summary>
+    /// Outfits the player has selected to sell
+    /// </summary>
+    private List<OutfitInfo> _outfitsToBeSoldByPlayer;
 
     [Header("References")]
     [SerializeField] private ShopManager shopManager;
     
+    [Header("Events")]
     [SerializeField] private UnityEvent OnTransactionStarted;
 
     [SerializeField] private UnityEvent OnBuyModeActivate;
@@ -54,7 +55,7 @@ public class ShopUI : MonoBehaviour {
     private void Awake() {
         buyModeOutfitItemsUI.Initialize();
         outfitsOwnedByPlayerItemsUI.Initialize();
-        outfitsToBeSoldByPlayer = new List<OutfitInfo>();
+        _outfitsToBeSoldByPlayer = new List<OutfitInfo>();
     }
 
     public void StartShopping(Interactor i) {
@@ -77,13 +78,13 @@ public class ShopUI : MonoBehaviour {
 
     public void ActivateSellMode() {
         // Clear the outfits being sold by the player
-        outfitsToBeSoldByPlayer.Clear();
+        _outfitsToBeSoldByPlayer.Clear();
         outfitsToBeSoldByPlayerItemsUI.ClearInfo();
         // Get the outfits the player has
         List<OutfitInfo> itemsOwnedByPlayer = shopManager.GetOwnedOutfits();
         outfitsOwnedByPlayerItemsUI.LoadInfo(itemsOwnedByPlayer);
         sellTransactionEarningsText.text = "";
-        // After loading the info, make outfit containers that have an outfit worn by the player non interactable 
+        // After loading the info, make outfit containers that have an outfit worn by the player not interactable 
         List<OutfitInfo> outfitsWornByPlayer = shopManager.GetWornOutfits();
         foreach (ContainerUI<OutfitInfo> containerUI in outfitsOwnedByPlayerItemsUI.stackUIPool) {
             containerUI.GetComponent<Button>().interactable = containerUI.productInfo 
@@ -110,11 +111,11 @@ public class ShopUI : MonoBehaviour {
         // Change the container's container and make it non clickable
         outfitContainerUI.gameObject.SetActive(false);
         // Update the UI accordingly
-        outfitsToBeSoldByPlayer.Add(outfitContainerUI.productInfo);
-        outfitsToBeSoldByPlayerItemsUI.LoadInfo(outfitsToBeSoldByPlayer);
-        sellTransactionEarningsText.text = outfitsToBeSoldByPlayer.Count>0 ? 
-            "+" + outfitsToBeSoldByPlayer.Sum(x=>x.cost) : "";
-        sellButton.interactable = outfitsToBeSoldByPlayer.Count > 0;
+        _outfitsToBeSoldByPlayer.Add(outfitContainerUI.productInfo);
+        outfitsToBeSoldByPlayerItemsUI.LoadInfo(_outfitsToBeSoldByPlayer);
+        sellTransactionEarningsText.text = _outfitsToBeSoldByPlayer.Count>0 ? 
+            "t" + _outfitsToBeSoldByPlayer.Sum(x=>x.cost) : "";
+        sellButton.interactable = _outfitsToBeSoldByPlayer.Count > 0;
     }
     
     /// <summary>
@@ -126,15 +127,15 @@ public class ShopUI : MonoBehaviour {
         // Change the container's container and make it non clickable
         outfitContainerUI.transform.parent = outfitsOwnedByPlayerItemsUI.container.transform;
         // Update the UI accordingly
-        outfitsToBeSoldByPlayer.Remove(outfitContainerUI.productInfo);
-        outfitsToBeSoldByPlayerItemsUI.LoadInfo(outfitsToBeSoldByPlayer);
+        _outfitsToBeSoldByPlayer.Remove(outfitContainerUI.productInfo);
+        outfitsToBeSoldByPlayerItemsUI.LoadInfo(_outfitsToBeSoldByPlayer);
         // Calculate the outfits owned by the player not currently being tried to sold by the player
         List<OutfitInfo> validOutfitsToSell =
-            shopManager.GetOwnedOutfits().FindAll(x => !outfitsToBeSoldByPlayer.Contains(x));
+            shopManager.GetOwnedOutfits().FindAll(x => !_outfitsToBeSoldByPlayer.Contains(x));
         outfitsOwnedByPlayerItemsUI.LoadInfo(validOutfitsToSell);
-        sellTransactionEarningsText.text = outfitsToBeSoldByPlayer.Count>0 ? 
-            "+" + outfitsToBeSoldByPlayer.Sum(x=>x.cost) : "";
-        sellButton.interactable = outfitsToBeSoldByPlayer.Count > 0;
+        sellTransactionEarningsText.text = _outfitsToBeSoldByPlayer.Count>0 ? 
+            "t" + _outfitsToBeSoldByPlayer.Sum(x=>x.cost) : "";
+        sellButton.interactable = _outfitsToBeSoldByPlayer.Count > 0;
     }
     
     /// <summary>
@@ -151,7 +152,7 @@ public class ShopUI : MonoBehaviour {
     /// Tries to sell all the items in the current outfits to sell items UI
     /// </summary>
     public void TrySellAll() {
-        if (shopManager.TrySell(outfitsToBeSoldByPlayer.ConvertAll(Converter))==InventoryTransaction.TRANSACTION_SUCCESS) {
+        if (shopManager.TrySell(_outfitsToBeSoldByPlayer.ConvertAll(Converter))==InventoryTransaction.TRANSACTION_SUCCESS) {
             ActivateSellMode();
         }
     }

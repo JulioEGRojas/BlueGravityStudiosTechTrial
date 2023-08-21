@@ -33,11 +33,17 @@ public class CharacterInputManager : MonoBehaviour {
         }
     }
 
+    /// <summary>
+    /// On Fixed Update, update the target diretion of the character to control
+    /// </summary>
     private void FixedUpdate() {
         characterToControl.SetX(_movementVector.x);
         characterToControl.SetY(_movementVector.y);
     }
 
+    /// <summary>
+    /// On E pressed, try to interact with something
+    /// </summary>
     public void OnEPressed() {
         characterToControl.OnInteractionTry();
     }

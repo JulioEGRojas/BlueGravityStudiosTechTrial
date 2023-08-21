@@ -1,28 +1,23 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.U2D.Animation;
 
-public class OutfitManager : MonoBehaviour {
+[Serializable]
+public class OutfitManager {
 
-    public enum OutfitSlot {
-        HAT,
-        HAIR,
-        TOP,
-        BOTTOM,
-        SHOES
-    }
+    [Header("Sprite game objects")]
+    [SerializeField] private GameObject hatGameObject;
 
-    public GameObject hatGameObject;
+    [SerializeField] private GameObject hairGameObject;
 
-    public GameObject hairGameObject;
-
-    public GameObject topGameObject;
+    [SerializeField] private GameObject topGameObject;
     
-    public GameObject bottomGameObject;
+    [SerializeField] private GameObject bottomGameObject;
     
-    public GameObject shoesGameObject;
+    [SerializeField] private GameObject shoesGameObject;
 
     /// <summary>
     /// Outfits currently worn
@@ -30,10 +25,11 @@ public class OutfitManager : MonoBehaviour {
     public List<OutfitInfo> wornOutfits;
 
     public void EquipOutfit(OutfitInfo outfitToEquip) {
-        GameObject toReplace = null;
+        GameObject toReplace;
         // Remove the outfit in the slot the player is going to use.
         wornOutfits.RemoveAll(x => x.outfitSlot == outfitToEquip.outfitSlot);
         wornOutfits.Add(outfitToEquip);
+        // Determine which object contains
         switch (outfitToEquip.outfitSlot) {
             default:
             case OutfitSlot.HAT:
@@ -56,5 +52,13 @@ public class OutfitManager : MonoBehaviour {
         SpriteLibraryAsset replacingLibrary = outfitToEquip.spriteLibraryAsset;
         toReplace.GetComponent<SpriteLibrary>().spriteLibraryAsset = replacingLibrary;
         toReplace.GetComponent<SpriteLibrary>().RefreshSpriteResolvers();
+    }
+    
+    public enum OutfitSlot {
+        HAT,
+        HAIR,
+        TOP,
+        BOTTOM,
+        SHOES
     }
 }
