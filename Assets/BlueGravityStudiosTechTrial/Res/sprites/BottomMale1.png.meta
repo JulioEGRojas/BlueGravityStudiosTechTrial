@@ -1,0 +1,2916 @@
+fileFormatVersion: 2
+guid: f5765dc9806148441a49971b778374c7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BottomMale1_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 165
+        width: 12
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a1780e64cc954bb6368ff04a18877
+      internalID: -1690930846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 548
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d5a0ee92e2e645be650c044320fe5
+      internalID: -803844124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 356
+        width: 10
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0006a69f299d3dd439014a046f788be6
+      internalID: 381086419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 259
+        width: 9
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2162c450ef545e4386210fdd49ebf5e
+      internalID: -1691299501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 292
+        width: 9
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498f270aaf7526c4fb4134f05e36386f
+      internalID: 1544253024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_57
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 356
+        width: 10
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f2a9b6b41f72b49b35d59bb841ccce
+      internalID: -1604036977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 132
+        width: 9
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f921bdb63962839439d1cba898905bc9
+      internalID: -1652993154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 324
+        width: 9
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d230b796db5e1d1408dff76439f65e56
+      internalID: -1657142393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 197
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17bae2bd3f55ae419719f17093681d4
+      internalID: 976302092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 644
+        width: 10
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b82fe4e764604d96119b9b5b141c1
+      internalID: 819819013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 579
+        width: 8
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd6842561a9b714ca8cbef234311a45
+      internalID: -1239084158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 71
+        width: 7
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0788c6a56be3fe941a592b34f549b0bf
+      internalID: -1821954052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 484
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d97f3cf92e7be45b8409afb1727d3e
+      internalID: -1807582266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_110
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 68
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d8a51aa57bf9e47b68c41f2f76497e
+      internalID: -1431787556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 65
+        width: 9
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575e979e44a2937419dfae3cc30b310e
+      internalID: -2065346788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_125
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bf9b81a83b67843bbcc326e91f55ae
+      internalID: -1444402488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortsLeft3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 389
+        width: 9
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd641e0f84beeed44930bf9959b3f3db
+      internalID: -1837236971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 420
+        width: 8
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec90a172eee6b9439eaa3ee8b2dee4c
+      internalID: -196963970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 420
+        width: 8
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a108119d397aa40976bbfc39a2d86f
+      internalID: 1966946284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 550
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8700004ec78fdcf42bd075596a49ad4f
+      internalID: 979570120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 580
+        width: 8
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab9bf94fef0a4245b3cb70417e12515
+      internalID: 441364705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 517
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd0ca9fb02ad7c43a7880c73fc9270e
+      internalID: 1338225166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_85
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 197
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d1d7aee6bb40459aa80fbecf6fe99
+      internalID: -895341564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_124
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 10
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023b2e682b59daa4eb2dbc2558f3c1d5
+      internalID: 1606512577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_122
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 8
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671bad48cf549e4192377a937226eb2
+      internalID: 1341759327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 451
+        width: 8
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2361cadf04ab28b40863db3363b715f2
+      internalID: -450660372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 484
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd29c33e6619f9f40b10c5760b7f51fc
+      internalID: 1181913722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 259
+        width: 9
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d541fb0053775b44cb8e94c763a01141
+      internalID: -837884778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 484
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395dfcd5c6370e94c8917d3e6291bf64
+      internalID: -411293679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 484
+        width: 8
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a47686cf78ce4b94cb89094da7f3c
+      internalID: 719468293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortsDown3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 453
+        width: 8
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9659b54b9399c48bd97d4dfd681b1c
+      internalID: -190499858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 133
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9ea36b3d8bd444eb67dadecfb36597
+      internalID: -453555129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 165
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e6b4ba344f56743a717017c412405c
+      internalID: 496151276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 516
+        width: 12
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182bb6f5dd04b847bc73aaa59d9bbed
+      internalID: 293218995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_100
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 132
+        width: 9
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b03cde38f050894fbe6de1a6b5e45e8
+      internalID: -587513264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 548
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0444c628fcad82f4fb922429ea654f68
+      internalID: 371324386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortsDown1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 451
+        width: 8
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2635ab3445a51142ab3ab613d9666f3
+      internalID: 613155292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 421
+        width: 8
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4181cacf8b8584fb08b00c6192a6fd
+      internalID: -639435511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 292
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8358b4993ec1a1d4db04516f834bf644
+      internalID: 543980258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 259
+        width: 8
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b629ebe60e8c14ca14d93713b026b2
+      internalID: 1154159210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 101
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a62afade11754dabdd7bb0b41fcd4
+      internalID: 583457622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 165
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648cce7ea7f71aa4c9ad13ac351468d9
+      internalID: -626534709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 356
+        width: 8
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a899a2b1a081c24696cc161fefe61ed
+      internalID: -299681360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 612
+        width: 12
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa7f6b24a8ba741a0b1b57cb8a8c7c
+      internalID: -1993175367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 325
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f579a12989fddd944bb5b5e6e0308e18
+      internalID: 1773308337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 389
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c499b1fe05f54f48ab7c5d5f57ae29d
+      internalID: 421172771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortsLeft2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 390
+        width: 10
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410ee334d3a5d454487030b11eabb085
+      internalID: 399357964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 644
+        width: 12
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb342654ca4bcb4ba115558ecc5f90b
+      internalID: 2081310175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_104
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 103
+        width: 9
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e189a2c9f758a4f881fae6895f832d
+      internalID: -1674922331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 516
+        width: 10
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dae939e73f365459ea098c6b2f4a4a
+      internalID: -2024287763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_101
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c38ec1bac48a6b4887c249cba0d4e06
+      internalID: 1951874864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_121
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 8
+        height: 12
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c875abae723f46a897da6179f0195
+      internalID: -806742916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 388
+        width: 9
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c9e19992a29cb4bbbc74e6bbbbb1b2
+      internalID: -55873401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 612
+        width: 9
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144774627b9bc4c45a4caba537dc80e3
+      internalID: 1974099288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 548
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a8fffd2883f274399fe8dc7df1ede6
+      internalID: 1103567952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 323
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07c613c3c86924eba9033eaad91445
+      internalID: -100489400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 323
+        width: 10
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e533caeb443fd4bb71e3b2d80a0ed9
+      internalID: 1497597141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 452
+        width: 8
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf30d68af1c9afe43b0b3dbcaa9c5b96
+      internalID: 615151902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_103
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade1227dc61c9ba48a7f7a1caa4c275e
+      internalID: -1721436452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_94
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 164
+        width: 10
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cccdf4f129f8d4f816dae59209cbc9
+      internalID: -2078400299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 293
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9ad57b55a7330449934a53e0e3f94d
+      internalID: -1940465382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_98
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 133
+        width: 10
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4e82f261b766844b7aa403d44f78a7
+      internalID: 453190188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 550
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3e738e7f9ac743962b663680bf6f8
+      internalID: 943238303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_84
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 197
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae776c0e836375e4dafba71070ee2b92
+      internalID: -1770416076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_63
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 326
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c555bdf377a494438259256529305aa
+      internalID: 2035946427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 579
+        width: 8
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb7e64101a12942afb3c71c59bb5b9
+      internalID: 1458490322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 261
+        width: 9
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e029b3d7ccd849bf9b82344c27738
+      internalID: 1958679926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 516
+        width: 10
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8bf36a2ed5cf64a98a7368dac84b54
+      internalID: 1614724681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortsDown2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 451
+        width: 8
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b683f4824d5bc4d8509febf88b5454
+      internalID: -943685639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_120
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 39
+        width: 10
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452d6ce4d9d19534a97ad2a274f7b16c
+      internalID: 865168724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 645
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cd876c4e94d824283a06f296813793
+      internalID: 73582491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 419
+        width: 8
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243a08500d660c642acf1311be905d87
+      internalID: 1397847243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_82
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 227
+        width: 8
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00841dff6f1f9ee45a91fd0ad7c3e971
+      internalID: 1683394274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 228
+        width: 9
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59617b9aeadc4b849a15d9d74528be79
+      internalID: -1867646586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 356
+        width: 10
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c002e106fb5a9bb408dab12df4343294
+      internalID: 1752323028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 484
+        width: 7
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21567e6b7c2a8a44a759b6ebff864ef
+      internalID: -18828517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortsLeft0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 387
+        width: 9
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c65258bbc85843873b725b944b959
+      internalID: -1627146715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShortsLeft1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 391
+        width: 9
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f240d88ad30f949bc39a4ed1e59c8b
+      internalID: 1496523529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 229
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce791f4806b26d44b9d8845b2c35216
+      internalID: 1411008972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_119
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 7
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9102bf8e530970f4ab5beed656b5ded4
+      internalID: 2147404391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 197
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e9ef91902949f409972a9867552f8e
+      internalID: 1569400062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 517
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c15de0dc739181438bd5033ad02b649
+      internalID: -916923751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 196
+        width: 9
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e19eb7c87fd0c245b937bbd6f42de53
+      internalID: -659701754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_68
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 294
+        width: 12
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a9df5c8ab1dd44e9edc3bb00ef4908
+      internalID: 2073136193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 165
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e72c3845464947811df82dfb5bb46
+      internalID: 374348354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 165
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ada04025ebd4448331e9868f7dbe6
+      internalID: -1067676643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_116
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 33
+        width: 12
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f41877008b8e64dad67f9f22367e17
+      internalID: -168434209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_74
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 261
+        width: 7
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2235ba9101e7145953f8a5a8893ae1
+      internalID: 189502445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_86
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 197
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16351111306940b4490f4cada5aa154d
+      internalID: -385269184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_126
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 8
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f0f99acaa64794381f86625e5778cc
+      internalID: -384889201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 133
+        width: 8
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c5b91f3551d7344a0888ce40994d50
+      internalID: 16465904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 547
+        width: 9
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da33fc6bbee44f44a8cfb7a5366bc9d
+      internalID: -983590086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_99
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 8
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad70f846b1ad0b848a5c88089160b93f
+      internalID: -946712800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_69
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 293
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c914cb68fe51774bad2d6c02efe020a
+      internalID: -1072255174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 229
+        width: 11
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3793033ad8eb2478989f583c517430
+      internalID: 842770994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 323
+        width: 8
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d765ca1bb54554cafd6826dadc8c9e
+      internalID: 1754842252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 612
+        width: 7
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd2d47cdf09dae429eccd8c9ef68945
+      internalID: 324341529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 228
+        width: 9
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df90fc3a6e572441bdf97b082fa4172
+      internalID: -714230601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 420
+        width: 8
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabaf579946b2ac4ca6a0ccecfda59ad
+      internalID: -1649386085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 10
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c327c41ab3a3ea645b12f6e5f4a7e120
+      internalID: -1651321175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 10
+        height: 12
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de41e96527220f448ad4b30448da19d1
+      internalID: 1951047855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 454
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aced0d2a3f91f9c4ab749761202470e3
+      internalID: -1515762279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 484
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0450abc3bbe253429b9ee400793d05a
+      internalID: 1757138992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 356
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce61d03a66a5348874781a2e1986e0
+      internalID: 1013724226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 74
+        width: 12
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb4cc9cc4ea6e0448bc8f82b8b9c61b
+      internalID: 1516366297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 517
+        width: 8
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc00c6f11c69341b9c799c25f8e4ee
+      internalID: 1222674014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 8
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43355e99c96f8c48be7d5bd348d733f
+      internalID: 1403943281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_115
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 8
+        height: 12
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa851d12bbdc694e973996a6b720391
+      internalID: 1197747902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 259
+        width: 9
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75555054581d0b4c99927ae879feb64
+      internalID: 516609967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_105
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 106
+        width: 12
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0af3a548f1842d48b8413fd95201b44
+      internalID: -385299227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_118
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 12
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24956112ca40dd6419d37dda61fad84a
+      internalID: 572802229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_123
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 8
+        height: 11
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214c3111a03142f47aa150bc760a270d
+      internalID: 180833788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_117
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 39
+        width: 8
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e408b2f3d074f64abbc1f5cc222059f
+      internalID: 298111403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_113
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 9
+        height: 4
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac535c46c33202d4a84d3dae480d657b
+      internalID: -960136840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_111
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 9
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a67233b92bbaca41983c8b4d6f0980e
+      internalID: -23943150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 358
+        width: 10
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f012ba7ccb6f68b43a1a26be9b908aca
+      internalID: -41357527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_109
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 71
+        width: 7
+        height: 5
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44acfa86814b6ec4ca8e7a511400faa6
+      internalID: -1666290479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BottomMale1_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 293
+        width: 10
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c7ed8cba1ef2f4cb66fbf4df8ab234
+      internalID: 1523414930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABottomDown1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 645
+        width: 8
+        height: 8
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a1d069cef89d74b9b00797b475c60e
+      internalID: -1997055551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABottomDown2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 644
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891fc8b78a9372a448db8ae821388412
+      internalID: -1080186538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABottomDown3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 644
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cfaf2744472344dadbef0a980b560d
+      internalID: 1450191912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABottomLeft1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 612
+        width: 7
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a7ffd82e5aa14faed08f6366db0fe
+      internalID: -357783401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABottomLeft2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 611
+        width: 8
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3543dbe4df41b74fba1494dd6d3e239
+      internalID: 803977651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABottomLeft3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 611
+        width: 10
+        height: 9
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2945f46e1d1ca50499c8e28d182e4815
+      internalID: 693685423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABottomUp1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 579
+        width: 8
+        height: 10
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c41e302b0497b24eb2b133fc36194b6
+      internalID: 1332949478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABottomUp2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 580
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f265baedf198d42b37bc27d915c947
+      internalID: -969519027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABottomUp3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 580
+        width: 8
+        height: 7
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfb16c7614604947be1c8677ef2c61a
+      internalID: 549246577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BottomMale1_26: 1338225166
+      BottomMale1_67: -1940465382
+      BottomMale1_107: 1951047855
+      BottomMale1_33: -411293679
+      BottomMale1_87: 1569400062
+      BottomMale1_97: 16465904
+      BottomMale1_92: -1067676643
+      BottomMale1_31: 1181913722
+      BottomMale1_23: 979570120
+      BottomMale1_42: -639435511
+      BottomMale1_91: 374348354
+      BottomMale1_106: -1651321175
+      BottomMale1_61: -100489400
+      BottomMale1_80: -1867646586
+      BottomMale1_115: 1197747902
+      BottomMale1_34: 719468293
+      BottomMale1_62: 1497597141
+      ShortsDown3: -190499858
+      BottomMale1_73: 1958679926
+      BottomMale1_99: -946712800
+      BottomMale1_112: 1516366297
+      BottomMale1_118: 572802229
+      BottomMale1_60: -1657142393
+      ABottomDown1: -1997055551
+      BottomMale1_10: -1993175367
+      BottomMale1_48: -55873401
+      BottomMale1_57: -1604036977
+      BottomMale1_110: -1431787556
+      BottomMale1_16: 441364705
+      BottomMale1_25: -916923751
+      BottomMale1_88: -659701754
+      BottomMale1_89: 496151276
+      ABottomDown2: -1080186538
+      BottomMale1_55: -41357527
+      BottomMale1_75: 1154159210
+      BottomMale1_44: 1397847243
+      BottomMale1_78: 842770994
+      BottomMale1_101: 1951874864
+      ABottomLeft2: 803977651
+      ABottomUp1: 1332949478
+      BottomMale1_124: 1606512577
+      BottomMale1_28: -2024287763
+      BottomMale1_54: 381086419
+      BottomMale1_4: 819819013
+      BottomMale1_66: 543980258
+      BottomMale1_43: -196963970
+      ShortsDown2: -943685639
+      BottomMale1_21: -983590086
+      BottomMale1_98: 453190188
+      BottomMale1_68: 2073136193
+      BottomMale1_90: -626534709
+      BottomMale1_46: -1649386085
+      BottomMale1_105: -385299227
+      BottomMale1_117: 298111403
+      BottomMale1_120: 865168724
+      ShortsLeft3: -1837236971
+      BottomMale1_76: -837884778
+      BottomMale1_32: 1757138992
+      BottomMale1_109: -1666290479
+      BottomMale1_125: -1444402488
+      BottomMale1_18: 1103567952
+      BottomMale1_59: 1773308337
+      BottomMale1_49: 421172771
+      BottomMale1_70: 1523414930
+      BottomMale1_84: -1770416076
+      ABottomUp2: -969519027
+      BottomMale1_126: -384889201
+      ABottomLeft3: 693685423
+      BottomMale1_96: -1652993154
+      BottomMale1_9: 1974099288
+      BottomMale1_58: 1013724226
+      BottomMale1_111: -23943150
+      BottomMale1_122: 1341759327
+      BottomMale1_29: 293218995
+      BottomMale1_35: -1807582266
+      BottomMale1_15: -1239084158
+      BottomMale1_24: 1222674014
+      BottomMale1_113: -960136840
+      BottomMale1_121: -806742916
+      BottomMale1_56: -299681360
+      ShortsLeft1: 1496523529
+      ABottomLeft1: -357783401
+      BottomMale1_64: 1754842252
+      BottomMale1_83: 976302092
+      BottomMale1_11: 324341529
+      BottomMale1_103: -1721436452
+      ShortsLeft0: -1627146715
+      BottomMale1_102: 583457622
+      BottomMale1_45: 1966946284
+      BottomMale1_22: 943238303
+      BottomMale1_69: -1072255174
+      ABottomUp3: 549246577
+      BottomMale1_100: -587513264
+      BottomMale1_39: -1515762279
+      BottomMale1_108: -1821954052
+      ABottomDown3: 1450191912
+      BottomMale1_20: -803844124
+      BottomMale1_3: 73582491
+      BottomMale1_77: 1411008972
+      BottomMale1_85: -895341564
+      BottomMale1_27: 1614724681
+      BottomMale1_74: 189502445
+      BottomMale1_94: -2078400299
+      BottomMale1_65: 1544253024
+      BottomMale1_123: 180833788
+      BottomMale1_119: 2147404391
+      BottomMale1_86: -385269184
+      BottomMale1_95: -453555129
+      BottomMale1_104: -1674922331
+      BottomMale1_41: -450660372
+      BottomMale1_30: -18828517
+      BottomMale1_82: 1683394274
+      BottomMale1_79: -714230601
+      BottomMale1_53: 1752323028
+      BottomMale1_81: 1403943281
+      BottomMale1_114: -2065346788
+      ShortsLeft2: 399357964
+      BottomMale1_17: 1458490322
+      BottomMale1_72: -1691299501
+      BottomMale1_5: 2081310175
+      ShortsDown1: 613155292
+      BottomMale1_19: 371324386
+      BottomMale1_40: 615151902
+      BottomMale1_63: 2035946427
+      BottomMale1_71: 516609967
+      BottomMale1_116: -168434209
+      BottomMale1_93: -1690930846
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

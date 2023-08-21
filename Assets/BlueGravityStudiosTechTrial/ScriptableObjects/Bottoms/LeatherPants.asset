@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 544b7c7fbbdfca94caceda873fb88b8b, type: 3}
+  m_Name: LeatherPants
+  m_EditorClassIdentifier: 
+  label: LeatherPants
+  description: LeatherPants
+  cost: 50
+  uiSprite: {fileID: -1997055551, guid: f5765dc9806148441a49971b778374c7, type: 3}
+  category: 7
+  spriteLibraryAsset: {fileID: 11400000, guid: f4b0aa26231ad97499d529edabea9521, type: 2}
+  outfitSlot: 3

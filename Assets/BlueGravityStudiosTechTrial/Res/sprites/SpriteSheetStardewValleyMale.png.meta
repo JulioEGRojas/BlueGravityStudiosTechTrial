@@ -1,0 +1,5579 @@
+fileFormatVersion: 2
+guid: cc61a96b9d2667b409a2feb62be7f384
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 651
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b2834762e6dce40bfbe495afab3d97
+      internalID: 983890259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 650
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2753c0c9e71af409c51fa50e9188d7
+      internalID: -483104397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 650
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff51d8d17e2324c91d6e4a9d080297
+      internalID: -1228037335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 652
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8566a111a8fd2744691c0df03490b536
+      internalID: -894765201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 642
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f20b3d0aeac64cac4845c560ae514
+      internalID: -796111280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 652
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8252c81de03bd4743a51519a67aebcd1
+      internalID: -1348889089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 649
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8334923e2b8a0d54baf2b11180dfb7fc
+      internalID: 426046653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AShoeDown1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 642
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c15032754cc11a4bbd26200c284b424
+      internalID: -103011512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AShoeDown2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 642
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0147e603acd388e41a7d309c240c64d1
+      internalID: 2130539157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AShoeDown3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 642
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7a7628db485724bb2cc791c7891f93
+      internalID: 1077090179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 642
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0093eead09f83094fbff5fcc0bf2f5a2
+      internalID: 1110554387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 642
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23e0ff1a6501f44a525d440094e456
+      internalID: -1096339007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 642
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8167e822545b84380902377cfcd291
+      internalID: -2044996367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 623
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2512f79f8f62d4baf48e7470d3d65b
+      internalID: 1507307615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 622
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944ca0baae944f14c984f40af8483901
+      internalID: -1378830580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 622
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d982c8a259a0525438aac83c3f776be8
+      internalID: 1187197696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 623
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902063e67f18255459d23fae325f71d3
+      internalID: -292979488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 620
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8eb2855a9062142b9a02f39e2d0dd9
+      internalID: -88762455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 622
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e8b7bdec956b49980284147693178
+      internalID: 567091847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AShoeRight1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 610
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625144dec9e37e41b454da3f74f442b
+      internalID: -1625787115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AShoeRight2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 610
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e688d1c8cbd0c543b48adc6bd2d66a0
+      internalID: -1528234801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AShoeRight3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 610
+        width: 15
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd576d091d101a4ab8a2192e8ff5d1c
+      internalID: -944135050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 610
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee17341c55c2274da0e8bfbe8393ea4
+      internalID: -914210966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 610
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1da23304e99b74b8430fc264534b44
+      internalID: -2001896610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 610
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7d4a98895d33e479e3e061f1b3bb90
+      internalID: 2022963036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 589
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e9f990e9043f4f8bf5290dcc70304
+      internalID: -1164740487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 588
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c590fb80da524487f5afc919b34c1
+      internalID: -214303402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 588
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1d93f3f50fa8a459861269127c9175
+      internalID: -332000947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 589
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630935a7dfa2e474db533d8e23696590
+      internalID: 1495955104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 587
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd49aaacb547ac4596ac58879db4c71
+      internalID: 120394176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 590
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f847949ae487245be97a656771814e
+      internalID: -1366914092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AShoeUp1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 578
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816f330ca28fb754a9693de5bff84574
+      internalID: -196680117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AShoeUp2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 578
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ae3e7ca21037545a08d6a0e54f5b02
+      internalID: -192881014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AShoeUp3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 578
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d438be78a664a4e8017e33d1bb7874
+      internalID: 920278435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 578
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f9c9f3f36115499d1672bfca32247
+      internalID: -418828192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 578
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad76bfa5dcf8b4e889e67d0da0153f
+      internalID: -1209664904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 580
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056fcb4721df0c54cafa87377d14f23e
+      internalID: -161212695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 578
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a7880d2bba9624b993673014a77d1d
+      internalID: -362610275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 554
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a34097ca41064bbef6e29dfae88ee
+      internalID: 23302052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 554
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f03e2d77a6d1bb40a0b6829132a14de
+      internalID: 925273680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 558
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e18f53dd5ea774ea4e1f069eaa5a4f
+      internalID: -471497162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 558
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c437d5db47ee634681c92be666c2972
+      internalID: -223113326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 556
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d777da3758ec53d4ca5b2943cb44862a
+      internalID: 119946684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_44
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 556
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7cb8023fb4ef24892310779dcd55d6
+      internalID: 1724044612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 546
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebadee93538fb44fa74cbacec42ccaf
+      internalID: 2136578851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 546
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92400d2a7035b7a41af47b557f823e72
+      internalID: 204999480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 547
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6bb8cdcb8270a45b048db83469a02e
+      internalID: -1801705725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 547
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599af3bc8659437438531a8ff65903e0
+      internalID: -1816555903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 547
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1fd480228756343845121d0a11ff82
+      internalID: -1826935650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 548
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613959da946ef544fa5d5772597b2f9e
+      internalID: 592319201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_51
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 548
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9981cd97295270e4dbdd3374cb14ce16
+      internalID: -601761182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 524
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e922477bed9444a019fc92257571e
+      internalID: -1420147974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_53
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 524
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8668ea1be4f511f4e8ae9cbdbdffcf65
+      internalID: 1944968987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 523
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2290910e927c31429f17abac98b8361
+      internalID: -1212259308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 522
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0e79652d1d9cf4c9908b844b34159e
+      internalID: -1600050952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 525
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3cf981231c4b84f874839bee0b33b6
+      internalID: -622982829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 525
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4a97b0a4624f844a89cea9f99c46a7
+      internalID: -965066166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 514
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d773aeb79f4d6f744a4ec6d7676ec720
+      internalID: -1456600766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 514
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6515f1d9c1b144392c00b2eaa7e2f9
+      internalID: 1723896799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_60
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 514
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5ba543f9eb7f469d76fd53f4a1952
+      internalID: -579088836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 515
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93c4b7c8feb714783d3ffbd6207325
+      internalID: -1558612179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 516
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c31dc71be1e3e4fa2e2edb39f4753d
+      internalID: -1994141223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_63
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 515
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10758d7f9e5b7a44877feb28252e655
+      internalID: -1978239344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 517
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2a4782d44b9d745843edceb1bea1cc
+      internalID: -446814470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 514
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d04279f6d8ee419d2034ab2ea72bc
+      internalID: 437505517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 516
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fc88e3f93aa614ea02a6cb85e52cda
+      internalID: 756456504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 496
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bda11818e498b438940875fa4d08f9
+      internalID: -1809406675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_68
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 496
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1ec595aa7f6ea44b2e396c871ea46f
+      internalID: 593134530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 495
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b325a99796e5fd24d853a5ee38bd961f
+      internalID: -388260748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 495
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd456a561a5000498fdfe60f53e488c
+      internalID: 776115730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 495
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f58b06e8d94ab4c92dfc1bc57a0736
+      internalID: -1574993062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_72
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 495
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54555bb2c3582cd4aa7a5a3fa0bfa9b4
+      internalID: 582883357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 482
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db758ddc38ddded46890bedf1e67dfa7
+      internalID: -1058423131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 482
+        width: 11
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9eb8ff0f9c8c841b291656314e417c
+      internalID: 1110346200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_75
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 482
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e210e972ad075354b80282c23bc68d18
+      internalID: 823820184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 482
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767b9883049b5f4eb3ed1a5b373e71e
+      internalID: 901801012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 482
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c64a1ee9cd92bb42887df81780ff599
+      internalID: 1929609636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_78
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 482
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957a82b89003c7b49ac1651e17c595d3
+      internalID: 1628600640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 461
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55741aef5aa0a5438dd2cd431b8758f
+      internalID: 1234799959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 461
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150dff4b19344ee4bbf4d736c4312de0
+      internalID: -1469692873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_81
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 462
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bf1bb34400c7e4f80cdc71654f5a6f
+      internalID: -755971068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_82
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 462
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a636227d9bef79b47813eb8afabbe47b
+      internalID: 1724747159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 461
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75241c82b252bdb45992e2dfe931f884
+      internalID: -696207025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_84
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 461
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526c9288b8d9cf49970ba6072e92a3f
+      internalID: -2104072866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_85
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 450
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3451665ed46b894eb02da0991fa809c
+      internalID: 2138634862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_86
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 450
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769d1592a88bb9a43a8ae6a96dcb9f5e
+      internalID: -1478911984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_87
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 452
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77d61f8118ff9a4f94ff95e7452a5cf
+      internalID: -1558973300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_88
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 452
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee210a2153bc94cb5a90065cb31994
+      internalID: 752951162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 450
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f59a6feea7d4b443903fe71480afe8a
+      internalID: 1087533114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_90
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 450
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67af149837f299540a53e75960c14e67
+      internalID: 185979379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 428
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce66d6283f4154e8a465ae26c1b329
+      internalID: 2136202438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_92
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 435
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a493774922db124fbb8d77fe847412c
+      internalID: -118352219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_93
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 429
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95491526ab3aeee418b9435fdebf2f2d
+      internalID: 2111245799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_94
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 434
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58856903c21d9944ac3ee81e5ebd0f9
+      internalID: 1865441535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_95
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 430
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc697f07b03e78a4fabf0f1413174045
+      internalID: 107949870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 418
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d348e33282a36d488276d1e5c9f2103
+      internalID: -2033959541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 418
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfec759f9279d14d96fcfc0f5f739ee
+      internalID: -633404647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 418
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f4f63c493d8ff4685cf054925a15d6
+      internalID: 58595974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_99
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 418
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203a8846250acc848baba6705fb8eb6e
+      internalID: 1191873573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_100
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 418
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ed0e3a654470b419e0c70a819de2cb
+      internalID: 337104355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 399
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce6c612f966c1447b7facb6e012e434
+      internalID: 277357978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_102
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 400
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a183504ba89c3f44b83ca7055bf816c
+      internalID: -1529482880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_103
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 401
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bca4967550f3c245b6358f11e0d7e14
+      internalID: 1964659725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_104
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 402
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2020c614714f0e448aac18ee91116e68
+      internalID: -1322213868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 401
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810122716dfa1ec40820e18d5cca5651
+      internalID: 856807771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_106
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 398
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a13b45d471c5f54c9385cdd6127fb01
+      internalID: 1269448363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_107
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 390
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc53f5f6fe27b4a85a46048216e5c5
+      internalID: 268403187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_108
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 390
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2048975b1bf87004aabfe9c25923a731
+      internalID: -444460332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_109
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 392
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48727f079c12cf546881eaa624720865
+      internalID: 1232845073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 388
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95f7fd5ee4fb0a44acc8f30f6ee99b2
+      internalID: -491282966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_111
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 390
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea5b4a6dcafb6498661c47d811ffe8
+      internalID: -1346031154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 386
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332b62601a8ef444fbdd974eb12149fb
+      internalID: 899717142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_113
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 386
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89ef89abe79fd47a45c77402b432d7
+      internalID: -867912744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_114
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 387
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a03d94791c172441851131b2f0f385f
+      internalID: 1760258315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_115
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 387
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0817f050f4eb2a4282b4ee3285fd691
+      internalID: 962230628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_116
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 388
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874dc259114a6a4438276a770d869e9f
+      internalID: 968218414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_117
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 361
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1894b1729e4fec74aae8d440f584f352
+      internalID: 1576538233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_118
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 362
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff2d852758298418e7997b01cd7483
+      internalID: 1386575561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_119
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 365
+        width: 12
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a18f3194e25b945888a4cbd4508f46
+      internalID: 69775227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_120
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 364
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82c34982fbd31429bcb4e9dd59c790
+      internalID: -649493443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 366
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d3c840b3df7c45a4263bb41f1f678
+      internalID: -904864901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_122
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 367
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf556a823df3a84db0a071bff349a51
+      internalID: 1527525007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_123
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 354
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8ed3b5259500544b1a6aa0258ce6cd
+      internalID: -844175578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_124
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 354
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bcf7f105304f143bf6d47c60394696
+      internalID: 2058059156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_125
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 356
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce54b35fa3f6b14ebe037a0b0979dcc
+      internalID: -678782447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_126
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 357
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f6e6bc344d55409efa0eba305fb23
+      internalID: 264076265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_127
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 354
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d849bfeab7c0afc46aeb8beb6146ffb1
+      internalID: -364098678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_128
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 354
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f896e62702c914aa113810d8bdbc53
+      internalID: -2135707645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_129
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 354
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79466752a4a244140bb47f767c346954
+      internalID: 731574398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 338
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71980fb0ce61b4d4aa56cf640a26e23b
+      internalID: 1222458845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 337
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e441850432728d2429fb5c06ef0d5a8a
+      internalID: -340468583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_132
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 330
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f9d01a7796a44686f978bdb1850e8
+      internalID: -888847531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_133
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 331
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc045f9a6298144080db101f2bc64c3
+      internalID: -1093196395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_134
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 333
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcd0fa0597978746b154a8104882e21
+      internalID: 435785453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_135
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 333
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcba5e7890ef3444afc72e709903a17
+      internalID: 1995817446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_136
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 323
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ff5ca0e7735e4faf710aec4864780
+      internalID: 1978944292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_137
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 326
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31658ba58236f19428f111fc33eac28c
+      internalID: -884169170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_138
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 322
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c2ba9073eb29b4890ac45aca08ace4
+      internalID: 463410391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_139
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 324
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc4f439f834188439500dc59744b033
+      internalID: -1377106519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_140
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 322
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bab0fe3c4dbc4468e2c24aa9524f1e
+      internalID: -227012810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_141
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 322
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c660415aa3742f343b7b6d68cf018f5b
+      internalID: -634340507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_142
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 322
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f09f48acc30149418590eb38ee103d8
+      internalID: -226297926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_143
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 298
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bda2f9f38edc6340adcc40d3088e2e4
+      internalID: 2068948508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_144
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 299
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61649ef0608756e4dac34baf8af07401
+      internalID: -1752093767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_145
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 300
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2cf01e775257d418af9d7655497814
+      internalID: 1957551484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_146
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 301
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fed7dfcbde7726479b897f53cb300a0
+      internalID: 854619928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 300
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e1915a017cdee449c5d8ba2e4fce42
+      internalID: -1255656485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_148
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 302
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7979c19db19b9c4abea1f1e09cf86d7
+      internalID: 1325000524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_149
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 290
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31da31a2883f7743b5e5755751cfb2c
+      internalID: 902134124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_150
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 290
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550e5b41096ac884788be5fecc1c5a16
+      internalID: -2001868274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_151
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 291
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17d8b5e0a3e1b245bbc73d1382dbb54
+      internalID: -1175239210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_152
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 292
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c947591743df1548b7e149b9d52fa7c
+      internalID: 1194008688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_153
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 292
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42884ee789e7b3a4784c9195c5976438
+      internalID: -1105460669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_154
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 291
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fc57ed4fed446478f63a0ed718e7d4
+      internalID: 394362798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_155
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 291
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfe4aadb18cd78438bae8c2c4397445
+      internalID: 1896522626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_156
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 272
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8358cbe1bd517640bb9be9f943baa1a
+      internalID: -1082312745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_157
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 272
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec85e0e7d28bb9429192477266803f2
+      internalID: 122290941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_158
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 267
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f729e621d72744585af6153168510a
+      internalID: -1659534060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_159
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 259
+        width: 11
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2054f4ce317dc7408792bcba520afdd
+      internalID: 282773973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_160
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 268
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662b76a19066d1643945e0c626b459d5
+      internalID: -399221078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_161
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 262
+        width: 13
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408bd0dfe3f24d45a95c0aab8f3f591
+      internalID: -187233801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_162
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 13
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d2f8116c5745f4e99d1be2bcb5b237
+      internalID: 549114984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_163
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 258
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a36a44aa5a4414b9fc4fe96f5c98a4
+      internalID: -1520283658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 260
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc31df97e0bfc9429a59ccfff2d0c9d
+      internalID: -82025738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_165
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 259
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf26ad00fad2e004b87c699a3bb1f4eb
+      internalID: 465004591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_166
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 258
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c388441c42fa543a82a7ae3f863a4e
+      internalID: 1705450646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_167
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 261
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f996adfcdd4b4a9b2d7ee716dd578
+      internalID: 303356159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_168
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 258
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600caa454fcd3f741a77990753d042dd
+      internalID: -97495038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_169
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 236
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2a7ce03644c42429af5817d3898ddd
+      internalID: 1269752514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 236
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf9718ae8007940a7e15454fac88e8
+      internalID: 268520605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_171
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077f1ffb7108ad40ac9e901c12c1187
+      internalID: -607697408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_172
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 240
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7c407c3b16e64f9c12ad30dba7947
+      internalID: 144270929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_173
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 236
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bcbc1e5bd68774fb1b4f7fa58b4408
+      internalID: 1048801682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_174
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 236
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296d718145789014da86c714c0dbced8
+      internalID: -1781861501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_175
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 226
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae4388416d92704091cdddb98bb0255
+      internalID: 26950018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_176
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 226
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a3c05ef896eb84bbca2c7ac0c866f1
+      internalID: 391554767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_177
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 226
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe80c925f4ce23479381356c22d342d
+      internalID: 330814249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_178
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 226
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d65e13d6f85d14fb64779c2d82bcaf
+      internalID: -48845169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_179
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 226
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9cd4fda7ac40e40a7dba12b4dcd896
+      internalID: -1512518329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_180
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 226
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1795a419684824fb6f8e2a3a17dc74
+      internalID: -685653711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_181
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 205
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f602a4b35f27042886af70cb116d46
+      internalID: 1574287067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_182
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 206
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb4c0f38b5a1ea48ad0f08e0c5ae84a
+      internalID: -16205225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_183
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 206
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3306a07efe1d0314197ba5693ea79d83
+      internalID: -718712810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_184
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 206
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9074510e18be93543ac3fc25515bf307
+      internalID: -1027938034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_185
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 206
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caba78690773d014481e24decb8f94ee
+      internalID: 1824734532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_186
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 207
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a47911f634b84ea2eb496b1131147
+      internalID: -1423084575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_187
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 194
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839b670cf1a1c6e43be940b1113c32f2
+      internalID: -1679855079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_188
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 194
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2607323107472e44bb857117383bc00f
+      internalID: -1783727002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_189
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 194
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a73ab3b37f9a944b2fba6034c90439
+      internalID: 559839891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_190
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 194
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8bd8210019a0a47a32d9acb7b9dd03
+      internalID: -814364502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_191
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 194
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9fd73bac7fe064f80bde98e0ea5813
+      internalID: -731465816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_192
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 194
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7164848a39bc6409f4c4db6e600f91
+      internalID: 108048365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_193
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 173
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776bc358b661f1e4486c9fce8ccaae8b
+      internalID: -1854826916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_194
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 174
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6384365be8623489446f9e52eda3b9
+      internalID: -690078646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_195
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 174
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e414708e3d4a14f8b2597494f929fc
+      internalID: 397530014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_196
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 174
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d6a3f7747248b478e44912101b1564
+      internalID: -616746611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_197
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 174
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da863c6d0ebe641b5f2ef042ab90d8
+      internalID: 1448994005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_198
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 170
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a8c8ea2b321ed479cfb0880eab97e9
+      internalID: 306523258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_199
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 162
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2323b6386be11c4aa1d1f374a72258d
+      internalID: 1926574002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_200
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 162
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48232e83e0b7f1f44bc2412f73f3cde7
+      internalID: 2144308025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_201
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 162
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace7dfcd81ceb864daa54db73592e29c
+      internalID: 100634848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_202
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 162
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1b8a74b9f3858439c004062fc938b1
+      internalID: 367605803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_203
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 163
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af796b1ccdf8af458eb39f84dd5e1de
+      internalID: -1376970005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_204
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 163
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f637e4c5c24843bf9e1cc9078bd79
+      internalID: -642072448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_205
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 162
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bce01e3586c6a248afde21f6274386f
+      internalID: -778413107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_206
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd9293d8a5c1344ab4c78ff8795bd0e
+      internalID: 458272752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_207
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd032131b64ba914c888070bcbcd0ec9
+      internalID: -2033062505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_208
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8868facdaef99549a8ebdde19afbfbc
+      internalID: -1458176024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_209
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 139
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930cbc81c1a4eda46837526efe340e55
+      internalID: 542873512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_210
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 140
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38250ffec47e0da4185634e33389d761
+      internalID: 557454501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_211
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 145
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee5314d20352bb478df4dfb0c0262ef
+      internalID: 412967399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_212
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b2aa2f8658d934d94272da6ff6bb91
+      internalID: -974934998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_213
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 130
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd47aa0cca259644a74381f2353e3ee
+      internalID: 1440309859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_214
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7892ee5d8f2f6fb4cb1a91e7cd2c11c8
+      internalID: -1940444829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_215
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 130
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b3b1f0064e87b4a9a6e7a38a8d5d59
+      internalID: 1205930061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_216
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 115
+        width: 11
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802d6d50d285f8949835b1010571fe21
+      internalID: -1293194312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_217
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 113
+        width: 13
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4682061f208014e8c2094f211df6f3
+      internalID: -140918714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_218
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 110
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a718b67a952a534e9f811768844bcff
+      internalID: 887007091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_219
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 110
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceed98036e69be846a884334da2fb168
+      internalID: -1128073783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_220
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbba7144fed06d48a904b6564210e64
+      internalID: 682375363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_221
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 108
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7ea956e9b3d346afdf12411130f5a
+      internalID: -1389614920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_222
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 102
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51527d048c22140b178f2c9171a5b5
+      internalID: 1884457813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_223
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 105
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6ff6edbf8f28746b0bf54d269851a9
+      internalID: 459698230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_224
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd72916373aebe43b02d59cdb78a125
+      internalID: -810873085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_225
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 98
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff201fa4d3ac8b84aa65cdf7ecd9d9b0
+      internalID: 1618668130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_226
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 98
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05df014575580da4aaf9a78b9c35fb48
+      internalID: -698569548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_227
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 98
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de5be85e0c3b440a20fc5bbfb9696b
+      internalID: 87367972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultCharDown1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a73524d6f6111c408bddcbf45176635
+      internalID: 794536333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultCharDown2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 68
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81640766f3a30d74f88983ba50cf9b7c
+      internalID: -1619574463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultCharDown3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 68
+        width: 13
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17d3eb4d11067f4eadd72bb916bc96d
+      internalID: -379629404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_231
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 78
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c71eecbd238846a31b51c5123c739
+      internalID: -326031671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_232
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 79
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65decec27e2f17f40aac4a5203a358ce
+      internalID: -1618792143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_233
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 74
+        width: 15
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d3ad053dbe79f4e8a7a0a666579f72
+      internalID: -1052244874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_234
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 51
+        width: 13
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80192b7903e7651469ede27af1ba533d
+      internalID: -2129145591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_235
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a189e11148ac4b4dab4d4f50033389f
+      internalID: -193385972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultCharLeft1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 36
+        width: 11
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943dc25c82910c24e85836b16979c110
+      internalID: -888511715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultCharLeft2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 36
+        width: 11
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c84d60eb1ba5b643be81236386fedd4
+      internalID: 1547109079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultCharLeft3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 12
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eb5a0d2933c0748bb04bd4c0914248
+      internalID: -678934380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_239
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 38
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eb006bb9e063f42bc3e249084ffca6
+      internalID: -358673066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultCharUp1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd8eea4d411d14a844d07854533fe8
+      internalID: -575565522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultCharUp2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e8923e4c07c7f44aa58905fcbf688e
+      internalID: -163654028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultCharUp3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 12
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea4af4c4d5effa478ea50a0628820e9
+      internalID: -1354852933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_243
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 12
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010399431c0156c4a98df2bafb964e5d
+      internalID: -194060508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_244
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e6db5ca7e616d43b81105d008be38e
+      internalID: 1054556639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_245
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 13
+        width: 10
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741296605bf4e2d4da0ba270acebf2d9
+      internalID: -1379953291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_246
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb323ad9aafa54da646c38bf475170
+      internalID: -1226553499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_247
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935edad85a5074b41a47f7726475e9be
+      internalID: -1944357845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteSheetStardewValleyMale_248
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878fa34e83cb4f4096816986b85c290
+      internalID: 133708925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DefaultCharDown1: 794536333
+      SpriteSheetStardewValleyMale_186: -1423084575
+      SpriteSheetStardewValleyMale_53: 1944968987
+      SpriteSheetStardewValleyMale_129: 731574398
+      SpriteSheetStardewValleyMale_22: 361172661
+      SpriteSheetStardewValleyMale_121: -904864901
+      SpriteSheetStardewValleyMale_248: 133708925
+      SpriteSheetStardewValleyMale_10: 1110554387
+      SpriteSheetStardewValleyMale_60: -579088836
+      SpriteSheetStardewValleyMale_162: 549114984
+      SpriteSheetStardewValleyMale_226: -698569548
+      SpriteSheetStardewValleyMale_244: 1054556639
+      SpriteSheetStardewValleyMale_173: 1048801682
+      SpriteSheetStardewValleyMale_149: 902134124
+      SpriteSheetStardewValleyMale_159: 282773973
+      SpriteSheetStardewValleyMale_67: -1809406675
+      SpriteSheetStardewValleyMale_156: -1082312745
+      SpriteSheetStardewValleyMale_161: -187233801
+      SpriteSheetStardewValleyMale_176: 391554767
+      SpriteSheetStardewValleyMale_49: -1826935650
+      SpriteSheetStardewValleyMale_113: -867912744
+      SpriteSheetStardewValleyMale_235: -193385972
+      SpriteSheetStardewValleyMale_76: 901801012
+      SpriteSheetStardewValleyMale_28: -332000947
+      SpriteSheetStardewValleyMale_138: 463410391
+      DefaultCharUp3: -1354852933
+      SpriteSheetStardewValleyMale_168: -97495038
+      SpriteSheetStardewValleyMale_188: -1783727002
+      SpriteSheetStardewValleyMale_57: -965066166
+      SpriteSheetStardewValleyMale_97: -633404647
+      SpriteSheetStardewValleyMale_243: -194060508
+      AShoeRight1: -1625787115
+      SpriteSheetStardewValleyMale_232: -1618792143
+      SpriteSheetStardewValleyMale_223: 459698230
+      SpriteSheetStardewValleyMale_6: 426046653
+      DefaultCharDown2: -1619574463
+      SpriteSheetStardewValleyMale_70: 776115730
+      DefaultCharUp2: -163654028
+      SpriteSheetStardewValleyMale_219: -1128073783
+      SpriteSheetStardewValleyMale_27: -214303402
+      SpriteSheetStardewValleyMale_71: -1574993062
+      SpriteSheetStardewValleyMale_203: -1376970005
+      SpriteSheetStardewValleyMale_200: 2144308025
+      SpriteSheetStardewValleyMale_127: -364098678
+      SpriteSheetStardewValleyMale_107: 268403187
+      SpriteSheetStardewValleyMale_43: 119946684
+      SpriteSheetStardewValleyMale_48: -1816555903
+      SpriteSheetStardewValleyMale_86: -1478911984
+      SpriteSheetStardewValleyMale_112: 899717142
+      AShoeUp1: -196680117
+      SpriteSheetStardewValleyMale_169: 1269752514
+      SpriteSheetStardewValleyMale_37: -161212695
+      SpriteSheetStardewValleyMale_106: 1269448363
+      SpriteSheetStardewValleyMale_35: -418828192
+      SpriteSheetStardewValleyMale_146: 854619928
+      SpriteSheetStardewValleyMale_11: -1096339007
+      SpriteSheetStardewValleyMale_79: 1234799959
+      SpriteSheetStardewValleyMale_180: -685653711
+      SpriteSheetStardewValleyMale_74: 1110346200
+      SpriteSheetStardewValleyMale_83: -696207025
+      SpriteSheetStardewValleyMale_31: -1366914092
+      SpriteSheetStardewValleyMale_58: -1456600766
+      SpriteSheetStardewValleyMale_46: 204999480
+      SpriteSheetStardewValleyMale_55: -1600050952
+      SpriteSheetStardewValleyMale_145: 1957551484
+      SpriteSheetStardewValleyMale_140: -227012810
+      SpriteSheetStardewValleyMale_165: 465004591
+      SpriteSheetStardewValleyMale_136: 1978944292
+      SpriteSheetStardewValleyMale_147: -1255656485
+      SpriteSheetStardewValleyMale_191: -731465816
+      SpriteSheetStardewValleyMale_205: -778413107
+      SpriteSheetStardewValleyMale_52: -1420147974
+      SpriteSheetStardewValleyMale_16: -292979488
+      SpriteSheetStardewValleyMale_108: -444460332
+      SpriteSheetStardewValleyMale_212: -974934998
+      SpriteSheetStardewValleyMale_233: -1052244874
+      SpriteSheetStardewValleyMale_38: -362610275
+      AShoeRight3: -944135050
+      SpriteSheetStardewValleyMale_172: 144270929
+      AShoeDown3: 1077090179
+      SpriteSheetStardewValleyMale_72: 582883357
+      SpriteSheetStardewValleyMale_214: -1940444829
+      SpriteSheetStardewValleyMale_24: -2001896610
+      SpriteSheetStardewValleyMale_175: 26950018
+      SpriteSheetStardewValleyMale_194: -690078646
+      SpriteSheetStardewValleyMale_99: 1191873573
+      SpriteSheetStardewValleyMale_13: 1507307615
+      SpriteSheetStardewValleyMale_88: 752951162
+      SpriteSheetStardewValleyMale_36: -1209664904
+      SpriteSheetStardewValleyMale_142: -226297926
+      AShoeRight2: -1528234801
+      SpriteSheetStardewValleyMale_15: 1187197696
+      SpriteSheetStardewValleyMale_25: 2022963036
+      SpriteSheetStardewValleyMale_137: -884169170
+      AShoeUp3: 920278435
+      DefaultCharLeft2: 1547109079
+      SpriteSheetStardewValleyMale_158: -1659534060
+      SpriteSheetStardewValleyMale_166: 1705450646
+      SpriteSheetStardewValleyMale_213: 1440309859
+      SpriteSheetStardewValleyMale_84: -2104072866
+      SpriteSheetStardewValleyMale_157: 122290941
+      SpriteSheetStardewValleyMale_122: 1527525007
+      SpriteSheetStardewValleyMale_211: 412967399
+      SpriteSheetStardewValleyMale_222: 1884457813
+      DefaultCharUp1: -575565522
+      SpriteSheetStardewValleyMale_61: -1558612179
+      SpriteSheetStardewValleyMale_39: 23302052
+      SpriteSheetStardewValleyMale_220: 682375363
+      SpriteSheetStardewValleyMale_197: 1448994005
+      SpriteSheetStardewValleyMale_98: 58595974
+      SpriteSheetStardewValleyMale_247: -1944357845
+      SpriteSheetStardewValleyMale_231: -326031671
+      SpriteSheetStardewValleyMale_178: -48845169
+      SpriteSheetStardewValleyMale_179: -1512518329
+      SpriteSheetStardewValleyMale_110: -491282966
+      SpriteSheetStardewValleyMale_120: -649493443
+      SpriteSheetStardewValleyMale_87: -1558973300
+      SpriteSheetStardewValleyMale_44: 1724044612
+      SpriteSheetStardewValleyMale_100: 337104355
+      SpriteSheetStardewValleyMale_192: 108048365
+      SpriteSheetStardewValleyMale_116: 968218414
+      SpriteSheetStardewValleyMale_117: 1576538233
+      SpriteSheetStardewValleyMale_130: 1222458845
+      SpriteSheetStardewValleyMale_216: -1293194312
+      SpriteSheetStardewValleyMale_69: -388260748
+      SpriteSheetStardewValleyMale_50: 592319201
+      SpriteSheetStardewValleyMale_23: -914210966
+      SpriteSheetStardewValleyMale_245: -1379953291
+      SpriteSheetStardewValleyMale_42: -223113326
+      SpriteSheetStardewValleyMale_64: -446814470
+      SpriteSheetStardewValleyMale_174: -1781861501
+      SpriteSheetStardewValleyMale_0: 983890259
+      SpriteSheetStardewValleyMale_221: -1389614920
+      SpriteSheetStardewValleyMale_12: -2044996367
+      SpriteSheetStardewValleyMale_47: -1801705725
+      SpriteSheetStardewValleyMale_155: 1896522626
+      SpriteSheetStardewValleyMale_227: 87367972
+      SpriteSheetStardewValleyMale_198: 306523258
+      SpriteSheetStardewValleyMale_3: -894765201
+      SpriteSheetStardewValleyMale_139: -1377106519
+      SpriteSheetStardewValleyMale_215: 1205930061
+      SpriteSheetStardewValleyMale_218: 887007091
+      SpriteSheetStardewValleyMale_199: 1926574002
+      SpriteSheetStardewValleyMale_151: -1175239210
+      SpriteSheetStardewValleyMale_171: -607697408
+      SpriteSheetStardewValleyMale_94: 1865441535
+      SpriteSheetStardewValleyMale_217: -140918714
+      SpriteSheetStardewValleyMale_163: -1520283658
+      SpriteSheetStardewValleyMale_5: -1348889089
+      SpriteSheetStardewValleyMale_26: -1164740487
+      SpriteSheetStardewValleyMale_4: -796111280
+      SpriteSheetStardewValleyMale_119: 69775227
+      SpriteSheetStardewValleyMale_190: -814364502
+      SpriteSheetStardewValleyMale_185: 1824734532
+      SpriteSheetStardewValleyMale_125: -678782447
+      SpriteSheetStardewValleyMale_133: -1093196395
+      SpriteSheetStardewValleyMale_59: 1723896799
+      SpriteSheetStardewValleyMale_234: -2129145591
+      SpriteSheetStardewValleyMale_105: 856807771
+      SpriteSheetStardewValleyMale_62: -1994141223
+      SpriteSheetStardewValleyMale_160: -399221078
+      SpriteSheetStardewValleyMale_54: -1212259308
+      AShoeDown2: 2130539157
+      SpriteSheetStardewValleyMale_77: 1929609636
+      SpriteSheetStardewValleyMale_246: -1226553499
+      SpriteSheetStardewValleyMale_131: -340468583
+      SpriteSheetStardewValleyMale_114: 1760258315
+      SpriteSheetStardewValleyMale_93: 2111245799
+      SpriteSheetStardewValleyMale_101: 277357978
+      SpriteSheetStardewValleyMale_204: -642072448
+      SpriteSheetStardewValleyMale_78: 1628600640
+      SpriteSheetStardewValleyMale_135: 1995817446
+      SpriteSheetStardewValleyMale_123: -844175578
+      SpriteSheetStardewValleyMale_29: 1495955104
+      SpriteSheetStardewValleyMale_75: 823820184
+      SpriteSheetStardewValleyMale_89: 1087533114
+      SpriteSheetStardewValleyMale_143: 2068948508
+      SpriteSheetStardewValleyMale_92: -118352219
+      SpriteSheetStardewValleyMale_193: -1854826916
+      SpriteSheetStardewValleyMale_104: -1322213868
+      SpriteSheetStardewValleyMale_181: 1574287067
+      SpriteSheetStardewValleyMale_196: -616746611
+      SpriteSheetStardewValleyMale_239: -358673066
+      SpriteSheetStardewValleyMale_40: 925273680
+      SpriteSheetStardewValleyMale_144: -1752093767
+      SpriteSheetStardewValleyMale_1: -483104397
+      SpriteSheetStardewValleyMale_90: 185979379
+      SpriteSheetStardewValleyMale_126: 264076265
+      SpriteSheetStardewValleyMale_132: -888847531
+      SpriteSheetStardewValleyMale_124: 2058059156
+      SpriteSheetStardewValleyMale_153: -1105460669
+      SpriteSheetStardewValleyMale_148: 1325000524
+      SpriteSheetStardewValleyMale_150: -2001868274
+      AShoeUp2: -192881014
+      SpriteSheetStardewValleyMale_30: 120394176
+      SpriteSheetStardewValleyMale_91: 2136202438
+      DefaultCharLeft3: -678934380
+      SpriteSheetStardewValleyMale_95: 107949870
+      SpriteSheetStardewValleyMale_152: 1194008688
+      SpriteSheetStardewValleyMale_41: -471497162
+      SpriteSheetStardewValleyMale_65: 437505517
+      SpriteSheetStardewValleyMale_189: 559839891
+      SpriteSheetStardewValleyMale_208: -1458176024
+      SpriteSheetStardewValleyMale_170: 268520605
+      SpriteSheetStardewValleyMale_68: 593134530
+      SpriteSheetStardewValleyMale_80: -1469692873
+      SpriteSheetStardewValleyMale_134: 435785453
+      SpriteSheetStardewValleyMale_177: 330814249
+      SpriteSheetStardewValleyMale_56: -622982829
+      SpriteSheetStardewValleyMale_82: 1724747159
+      SpriteSheetStardewValleyMale_195: 397530014
+      SpriteSheetStardewValleyMale_115: 962230628
+      SpriteSheetStardewValleyMale_209: 542873512
+      SpriteSheetStardewValleyMale_73: -1058423131
+      SpriteSheetStardewValleyMale_187: -1679855079
+      SpriteSheetStardewValleyMale_206: 458272752
+      SpriteSheetStardewValleyMale_225: 1618668130
+      SpriteSheetStardewValleyMale_51: -601761182
+      SpriteSheetStardewValleyMale_202: 367605803
+      SpriteSheetStardewValleyMale_18: 567091847
+      SpriteSheetStardewValleyMale_141: -634340507
+      SpriteSheetStardewValleyMale_210: 557454501
+      SpriteSheetStardewValleyMale_224: -810873085
+      SpriteSheetStardewValleyMale_45: 2136578851
+      SpriteSheetStardewValleyMale_128: -2135707645
+      SpriteSheetStardewValleyMale_167: 303356159
+      SpriteSheetStardewValleyMale_184: -1027938034
+      SpriteSheetStardewValleyMale_207: -2033062505
+      DefaultCharDown3: -379629404
+      SpriteSheetStardewValleyMale_118: 1386575561
+      SpriteSheetStardewValleyMale_63: -1978239344
+      SpriteSheetStardewValleyMale_85: 2138634862
+      SpriteSheetStardewValleyMale_96: -2033959541
+      SpriteSheetStardewValleyMale_102: -1529482880
+      SpriteSheetStardewValleyMale_109: 1232845073
+      SpriteSheetStardewValleyMale_111: -1346031154
+      SpriteSheetStardewValleyMale_154: 394362798
+      SpriteSheetStardewValleyMale_14: -1378830580
+      SpriteSheetStardewValleyMale_182: -16205225
+      SpriteSheetStardewValleyMale_201: 100634848
+      SpriteSheetStardewValleyMale_81: -755971068
+      DefaultCharLeft1: -888511715
+      SpriteSheetStardewValleyMale_164: -82025738
+      SpriteSheetStardewValleyMale_66: 756456504
+      AShoeDown1: -103011512
+      SpriteSheetStardewValleyMale_183: -718712810
+      SpriteSheetStardewValleyMale_2: -1228037335
+      SpriteSheetStardewValleyMale_17: -88762455
+      SpriteSheetStardewValleyMale_103: 1964659725
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
